@@ -1,0 +1,37 @@
+{
+   "id":"40",
+   "language":"de",
+   "title":"Immobilienboom in Kambodscha : Ökologische Folgen",
+   "abstract":"Kambodschas ökonomisches Wachstum wird stark von der Bauindustrie angetrieben. Der im Zuge dessen präsente Immobilienboom bringt damit nicht nur wirtschaftliche Veränderungen für das Land, sondern prägt es auch auf ökologischer Ebene mit seinen Folgen. Diese ökologischen Folgen beschränken sich mit Flächenversiegelung und Zerstörung von Habitaten nicht nur auf den Bauort selbst, sondern beeinflusst Regionen weltweit (spatial fix). So geraten besonders Abbaugebiete von Bauressourcen in ökologische Konflikte. Vorangetrieben werden der Immobilienboom in Kambodscha und die damit verbundenen ökologischen Folgen vor allem durch die zunehmende Neoliberalisierung der Wirtschaft, durch Kommodifizierung und Externalisierung. Diese zugrundeliegenden Prozesse ermöglichen es insbesondere ausländischen Investoren, Immobilien in Kambodscha als Geldanlage zu nutzen und damit den Bauboom vor Ort anzutreiben.",
+   "year":2021,
+   "orientation":"landscape",
+   "freidok": "224450",
+   "pdf": "https://globalchanges.github.io/MetaData2022/40/poster.pdf",
+   "thumbnail": "https://globalchanges.github.io/MetaData2022/40/thumbnail.png",
+   "icon": "https://globalchanges.github.io/MetaData2022/40/icon.png",  
+   "authors":[
+      {
+         "firstname":"Anja",
+         "name":"Fuß",
+         "email":"af362@uni-freiburg.de",
+         "orcid":"0000-0002-4650-1420"
+      }
+   ],
+   "location":{
+      "continent":"Asien",
+      "country":"Kambodscha",
+      "countries": null,
+      "region":null,
+      "city":null,
+      "landscape":"Großstadt",
+      "latitude":12.6,
+      "longitude":105.7
+    },
+   "period":{
+      "begin":1950,
+      "end":2021
+   },
+   "concept":"Wirkpfade",
+   "topic":"Ressourcen",
+   "subtopic":"Urbanisierung"
+}
