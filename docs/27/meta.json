@@ -18,11 +18,11 @@
   ],
   "location": {
     "country": null,
-    "countries": [],
+    "countries": ["Israel", "Palästina", "Libanon", "Jordanien", "Syrien"],
     "continent": "Naher Osten",
     "landscape": "Fluss",
-    "latitude": -35,
-    "longitude": -145,
+    "latitude": 31.5,
+    "longitude": 35.5,
     "city": "",
     "region": ""
   },
