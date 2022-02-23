@@ -1,0 +1,41 @@
+{
+  "id": "27",
+  "year": "2022",
+  "freidok": "",
+  "doi": "",
+  "language": "de",
+  "orientation": "portrait",
+  "title": "Wasserkonflikte am Jordan",
+  "abstract": "Das Jordanbecken ist seit fast einem Jahrhundert Schauplatz diverser Konflikte, bei dem die Ressource Wasser im Mittelpunkt steht. Der Jordan stellt in dieser trockenen Region eine wichtige Wasserversorgung dar, doch der Zugang und die Aufteilung sind ungleich aufgeteilt. Durch die zahlreichen, blutigen Auseinandersetzungen erlangte Israel die größte hydrostrategische Macht, was sich bis heute kaum verändert hat. Vor allem Jordanien und die palästinensische Bevölkerung leiden darunter, da diese beiden Länder wenig weitere Wasserquellen nutzen können. Eine allumfassende diplomatische Konfliktlösung der Wassermangelproblematik ist bis heute nicht gefunden worden.",
+  "authors": [
+    {
+      "email": "katrin.michel1@gmx.de",
+      "firstname": "Katrin",
+      "name": "Michel",
+      "freidok": "",
+      "orcid": "0000-0001-6911-8646"
+    }
+  ],
+  "location": {
+    "country": null,
+    "countries": [],
+    "continent": "Naher Osten",
+    "landscape": "Fluss",
+    "latitude": -35,
+    "longitude": -145,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Vulnerabel&Resilienz",
+  "topic": "Wasser",
+  "subtopic": "Ressourcen",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/MetaData2022/27/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/MetaData2022/27/thumbnail.png",
+  "icon": "https://globalchanges.github.io/MetaData2022/27/icon.png",
+  "sources": []
+}
