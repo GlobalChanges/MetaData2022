@@ -1,0 +1,42 @@
+{
+  "id": "69",
+  "year": "2022",
+  "freidok": "",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "Phänologische Veränderungen in Mitteleuropa",
+  "abstract": "Die phänologische Uhr stellt den Verlauf der Jahreszeiten anhand von periodisch wiederkehrenden Naturerscheinungen der Pflanzenwelt dar (z.B. Blütenaufbruch, Fruchtreife, Blattfall). Die Unterteilung in zehn Jahreszeiten erfolgt anhand von Leitphasen, die für bestimmte Regionen definiert sind. Im Zeitverlauf konnten in Mitteleuropa Veränderungen der phänologischen Phasen beobachtet werden, welchen verschiedene Einflussfaktoren zugrunde liegen. Die Veränderungen betreffen jedoch nicht nur die Pflanzenwelt. Aufgrund von komplexen intra- und interspezifischen Zusammenhängen, haben phänologische Veränderungen einer Art oft weitreichende Auswirkungen auf andere Arten und ganze Ökosysteme. ",
+  "authors": [
+    {
+      "email": "johanna.krischke@posteo.de",
+      "firstname": "Johanna",
+      "name": "Krischke",
+      "freidok": "",
+      "orcid": "0000-0003-2375-2486"
+    }
+  ],
+  "location": {
+    "country": "Europa",
+    "countries": [],
+    "continent": "Europa",
+    "landscape": "Wald",
+    "latitude": -35,
+    "longitude": -145,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Critical Zones",
+  "topic": "Klimawandel",
+  "subtopic": "Biodiversität",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/MetaData2022/69/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/MetaData2022/69/thumbnail.png",
+  "icon": "https://globalchanges.github.io/MetaData2022/69/icon.png",
+  "tiles": null,
+  "sources": []
+}
