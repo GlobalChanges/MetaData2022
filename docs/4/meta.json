@@ -1,0 +1,42 @@
+{
+  "id": "4",
+  "year": "2022",
+  "freidok": "",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "Städte denen, die drin wohnen",
+  "abstract": "Anknüpfend an die Sanktuar City Bewegung in den USA entsteht seit einigen Jahren auch in Europa ein ähnliches Netzwerk: Die Solidarity City Bewegung. Zentral ist dabei die Forderung nach voller Teilhabe, Rechten und Schutz für alle Stadtbewohner*innen. NGOs, migrantische Organisationen, kirchliche Gruppen, aber auch Stadtverwaltungen und Bürgermeister*innen stellen so die Illegalisierung von Menschen und von Migration in Frage. Sie verstehen Städte als Sozialräume, in denen nicht Nationalität über Zugehörigkeit entscheiden soll, sondern der Wohnort.",
+  "authors": [
+    {
+      "email": "maria.scheller@macbay.de",
+      "firstname": "Maria",
+      "name": "Scheller",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "None",
+    "countries": [],
+    "continent": "Europa",
+    "landscape": "Großstadt",
+    "latitude": 47.5,
+    "longitude": 5.57,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Wertebasiert",
+  "topic": "Migration",
+  "subtopic": "Urbanisierung",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/MetaData2022/4/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/MetaData2022/4/thumbnail.png",
+  "icon": "https://globalchanges.github.io/MetaData2022/4/icon.png",
+  "tiles": "https://globalchanges.github.io/MetaData2022/4/tiles.dzi",
+  "sources": []
+}
