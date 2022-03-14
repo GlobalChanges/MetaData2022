@@ -1,0 +1,43 @@
+{
+  "id": "30",
+  "year": "2022",
+  "freidok": "",
+  "doi": "",
+  "language": "en",
+  "orientation": "portrait",
+  "title": "Global Wetlands in Decline - Causes, Consequences & Solutions",
+  "abstract": "Wetlands have come under significant pressure in recent decades, resulting in the loss of many wet ecosystems around the world. Despite this loss, wetlands have received significantly less attention than other ecosystems such as forests or coral reefs, resulting in a lack of  awareness. What are the causes for this decline, its consequences, and possible solutions?",
+  "authors": [
+    {
+      "email": "pcfrandsen@gmx.de",
+      "firstname": "Peter C.",
+      "name": "Frandsen",
+      "freidok": "",
+      "orcid": "0000-0002-5919-1134"
+    }
+  ],
+  "location": {
+    "country": null,
+    "countries": [],
+    "continent": "Welt",
+    "landscape": "Großstadt",
+   "latitude": -45.0,
+   "longitude": -121.0
+    "city": "",
+    "region": ""
+  },
+  "concept": "Critical Zones",
+  "topic": "Landnutzung",
+  "subtopic": "Wasser",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/MetaData2022/30/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/MetaData2022/30/thumbnail.png",
+  "icon": "https://globalchanges.github.io/MetaData2022/30/icon.png",
+  "tiles": "https://globalchanges.github.io/MetaData2022/30/tiles.dzi",
+  "tiles": null,
+  "sources": []
+}
