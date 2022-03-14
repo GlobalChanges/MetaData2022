@@ -20,9 +20,9 @@
     "country": null,
     "countries": [],
     "continent": "Welt",
-    "landscape": "Großstadt",
-   "latitude": -45.0,
-   "longitude": -121.0
+    "landscape": "Feuchtgebiet",
+    "latitude": -45.0,
+    "longitude": -121.0,
     "city": "",
     "region": ""
   },
