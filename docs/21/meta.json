@@ -37,6 +37,6 @@
   "pdf": "https://globalchanges.github.io/MetaData2022/21/poster.pdf",
   "thumbnail": "https://globalchanges.github.io/MetaData2022/21/thumbnail.png",
   "icon": "https://globalchanges.github.io/MetaData2022/21/icon.png",
-  "tiles": null,
+  "tiles": "https://globalchanges.github.io/MetaData2022/21/tiles.dzi",
   "sources": []
 }
