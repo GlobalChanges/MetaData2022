@@ -1,0 +1,42 @@
+{
+  "id": "65",
+  "year": "2022",
+  "freidok": "",
+  "doi": "",
+  "language": "de",
+  "orientation": "portrait",
+  "title": "Monopoly mit Nordseeheringen?",
+  "abstract": "Durch die Schließung der Heringfischerei zw. 1977 – 1981, konnte sich der Bestand wieder stabilisieren. Nachdem die Heringe lange Zeit gegen eine Überfischung ankämpfen mussten, haben sie es nun mit einer Erhöhung der Wassertemperatur zu tun.",
+  "authors": [
+    {
+      "email": "bm185@uni-freiburg.de",
+      "firstname": "Barbara F.",
+      "name": "Mauch",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": null,
+    "countries": [],
+    "continent": "Europa",
+    "landscape": "Meer",
+    "latitude": 56.1,
+    "longitude": 3.1,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Politische Ökologie",
+  "topic": "Klimawandel",
+  "subtopic": "Ernährung",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2022/65/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2022/65/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2022/65/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2022/65/tiles.dzi",
+  "sources": []
+}
