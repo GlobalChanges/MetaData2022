@@ -1,7 +1,8 @@
 {
-  "id": "65",
+  "id": "225428",
   "year": "2022",
-  "freidok": "",
+  "freidok": "225428",
+  "issue": "65",
   "doi": "",
   "language": "de",
   "orientation": "portrait",
@@ -34,9 +35,9 @@
     "end": 2022
   },
   "keywords": [],
-  "pdf": "https://globalchanges.github.io/MetaData2022/65/poster.pdf",
-  "thumbnail": "https://globalchanges.github.io/MetaData2022/65/thumbnail.png",
-  "icon": "https://globalchanges.github.io/MetaData2022/65/icon.png",
-  "tiles": "https://globalchanges.github.io/MetaData2022/65/tiles.dzi",
+  "pdf": "https://globalchanges.github.io/MetaData2022/225428/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/MetaData2022/225428/thumbnail.png",
+  "icon": "https://globalchanges.github.io/MetaData2022/225428/icon.png",
+  "tiles": "https://globalchanges.github.io/MetaData2022/225428/tiles.dzi",
   "sources": []
 }
