@@ -1,0 +1,43 @@
+{
+  "id": "227140",
+  "issue": "3",
+  "year": "2022",
+  "freidok":"227140",
+  "doi": "",
+  "language": "en",
+  "orientation": "portrait",
+  "title": "(New) Urban Tourism in Hamburg",
+  "abstract": "(New) Urban Tourism in Hamburg",
+  "authors": [
+    {
+      "email": "lk461@uni-freiburg.de",
+      "firstname": "Lara",
+      "name": "Koppelmann",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "Deutschland",
+    "countries": [],
+    "continent": "Europa",
+    "landscape": "Großstadt",
+    "latitude": 53.5,
+    "longitude": 10.1,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Diskursanalyse",
+  "topic": "Urbanisierung",
+  "subtopic": "Tourismus",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/MetaData2022/227140/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/MetaData2022/227140/thumbnail.png",
+  "icon": "https://globalchanges.github.io/MetaData2022/227140/icon.png",
+  "tiles": "https://globalchanges.github.io/MetaData2022/227140/tiles.dzi",
+  "sources": []
+}
